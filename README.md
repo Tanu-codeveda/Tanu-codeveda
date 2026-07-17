@@ -51,8 +51,8 @@ Here are some highlights of the utility tools and baseline implementations I've 
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanu-codeveda&show_icons=true&theme=tokyonight&count_private=true" alt="Tanu's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-codeveda&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Tanu-codeveda&show_icons=true&theme=tokyonight&count_private=true" alt="Tanu's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Tanu-codeveda&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 ---
