@@ -39,21 +39,14 @@ Right now, I'm aggressively ideating, learning, and preparing to build high-impa
 
 ### 📂 Featured Academic & Fundamental Projects 
 
-Here are some highlights of the utility tools and baseline implementations I've worked on so far:
+> 💡 **Note:** I am currently migrating my codebase from my college GitHub profile to this personal account. You can view my active repositories and complete commit history over at my [College GitHub Profile](https://github.com/tanu25bce10493).
 
-* 🤖 **[chatbot_project]** - An AI-powered student assistant chatbot utilizing NLP and machine learning techniques (TF-IDF + Logistic Regression) integrated into a modern Flask-based web interface.
-* 📈 **[student-performance-predictor]** - A machine learning exploration script engineered in Python to process and predict student performance matrices.
-* 📚 **[study-buddy]** - A practical, Python-based learning assistant helping students revise effectively through flashcards, quizzes, and a simple task planner—offering both CLI and GUI modes.
-* 🌐 **[digital-literacy-project]** - A project focused on designing resources and frameworks to promote safe and effective digital literacy practices.
+Here are some highlights of the utility tools and baseline implementations I've built there:
 
----
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=Tanu-codeveda&show_icons=true&theme=tokyonight&count_private=true" alt="Tanu's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Tanu-codeveda&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
+* 🤖 **[chatbot_project](https://github.com/tanu25bce10493/chatbot_project)** - An AI-powered student assistant chatbot utilizing NLP and machine learning techniques (TF-IDF + Logistic Regression) integrated into a modern Flask-based web interface.
+* 📈 **[student-performance-predictor](https://github.com/tanu25bce10493/student-performance-predictor)** - A machine learning exploration script engineered in Python to process and predict student performance matrices.
+* 📚 **[study-buddy](https://github.com/tanu25bce10493/study-buddy)** - A practical, Python-based learning assistant helping students revise effectively through flashcards, quizzes, and a simple task planner—offering both CLI and GUI modes.
+* 🌐 **[digital-literacy-project](https://github.com/tanu25bce10493/digital-literacy-project)** - A project focused on designing resources and frameworks to promote safe and effective digital literacy practices.
 
 ---
 
