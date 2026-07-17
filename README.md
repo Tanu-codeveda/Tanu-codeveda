@@ -6,7 +6,7 @@
 
 I am a **B.Tech Computer Science and Engineering student at VIT Bhopal University**. I am a problem-solver at heart, focused primarily on **Backend Development** while exploring **Full-Stack architectures**. My primary drive lies at the intersection of **Cybersecurity, Artificial Intelligence, and Cloud Computing**—constantly building tools to solve real-world technical problems I encounter.
 
-Right now, I'm aggressively ideating, learning, and preparing to build high-impact solutions for upcoming hackathons like **FutureForge 2026**!
+Right now, I'm aggressively ideating, learning, and preparing to build high-impact solutions for upcoming hackathons.
 
 ---
 
