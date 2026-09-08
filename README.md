@@ -1,6 +1,7 @@
 # Hey there, I'm Tanu Gowda! 👋
 
 <p align="left">
+  <a href="https://tanu-cse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/tanu-gowda-8ba015380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
