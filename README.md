@@ -1,9 +1,6 @@
 # Hey there, I'm Tanu Gowda! 👋
 
-<p align="left">
-  <a href="https://tanu-cse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/tanu-gowda-8ba015380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/tanu-gowda-8ba015380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://tanu-cse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> </p>
 
 I am a **B.Tech Computer Science and Engineering student at VIT Bhopal University**. I am a problem-solver at heart, focused primarily on **Backend Development** while exploring **Full-Stack architectures**. My primary drive lies at the intersection of **Cybersecurity, Artificial Intelligence, and Cloud Computing**—constantly building tools to solve real-world technical problems.
 
