@@ -4,7 +4,7 @@
 
 I am a **B.Tech Computer Science and Engineering student at VIT Bhopal University**. I am a problem-solver at heart, focused primarily on **Backend Development** while exploring **Full-Stack architectures**. My primary drive lies at the intersection of **Cybersecurity, Artificial Intelligence, and Cloud Computing**—constantly building tools to solve real-world technical problems.
 
-Recently, I participated in the **Summer of Code Fest (SOCF) 2.0 Grand Finale Hackathon**, where my team (**GRAMBYTE**) built **SyncReserve AI**—a high-performance intelligent resource scheduling platform combining **C++**, **Python (FastAPI)**, graph algorithms, and AI-assisted scheduling to solve concurrent resource booking challenges.
+Recently, I participated in multiple hackathons, including the **Smart VIT Hackathon 2026** and the **Summer of Code Fest (SOCF) 2.0 Grand Finale Hackathon**. During Smart VIT, my team (**Nexus Six**) built **CivicPulse AI**—an intelligent civic issue reporting and resolution platform combining **FastAPI**, **React**, AI-assisted analysis, computer vision, NLP, and geospatial intelligence. At SOCF 2.0, my team (**GRAMBYTE**) built **SyncReserve AI**—a high-performance intelligent resource scheduling platform combining **C++**, **Python (FastAPI)**, graph algorithms, and AI-assisted scheduling.
 
 ---
 
@@ -38,29 +38,30 @@ Recently, I participated in the **Summer of Code Fest (SOCF) 2.0 Grand Finale Ha
 
 ---
 
-### 🏆 Featured Hackathon Project
+### 🏆 Featured Hackathon Projects
 
-* 🚀 **[SyncReserve AI](https://github.com/tanu25bce10493/Team-GRAMBYTE-TANU_GOWDA)** – A high-performance intelligent resource scheduling platform developed during **Summer of Code Fest (SOCF) 2.0**. Built using **C++**, **Python (FastAPI)**, graph algorithms, and AI-assisted scheduling to eliminate booking conflicts through efficient in-memory resource allocation and intelligent backend design.
+* 🚀 **[CivicPulse AI](https://github.com/Tanu-codeveda/CivicPulse-AI)** – An intelligent civic issue reporting and resolution platform developed by **Team Nexus Six** for the **Smart VIT Hackathon 2026**. It combines a citizen reporting application, municipal operations dashboard, and AI-assisted processing pipeline using **FastAPI, React, OpenCV, YOLO, Whisper, NLP, and geospatial intelligence** to classify, route, prioritize, track, and analyze civic complaints.
+
+* 🚀 **[SyncReserve AI](https://github.com/Tanu-codeveda/Team-GRAMBYTE-TANU_GOWDA)** – A high-performance intelligent resource scheduling platform developed during **Summer of Code Fest (SOCF) 2.0**. Built using **C++**, **Python (FastAPI)**, graph algorithms, and AI-assisted scheduling to eliminate booking conflicts through efficient in-memory resource allocation and intelligent backend design.
 
 ---
 
 ### 📂 Featured Academic & Fundamental Projects
 
-Here are some highlights of the utility tools and baseline implementations I've built there:
+Here are some highlights of the utility tools and baseline implementations I've built:
 
-* 🤖 **[chatbot_project](https://github.com/tanu25bce10493/chatbot_project)** - An AI-powered student assistant chatbot utilizing NLP and machine learning techniques (TF-IDF + Logistic Regression) integrated into a modern Flask-based web interface.
+* 🤖 **[chatbot_project](https://github.com/Tanu-codeveda/chatbot_project)** - An AI-powered student assistant chatbot utilizing NLP and machine learning techniques (TF-IDF + Logistic Regression) integrated into a modern Flask-based web interface.
 
-* 📈 **[student-performance-predictor](https://github.com/tanu25bce10493/student-performance-predictor)** - A machine learning exploration script engineered in Python to process and predict student performance matrices.
+* 📈 **[student-performance-predictor](https://github.com/Tanu-codeveda/student-performance-predictor)** - A machine learning exploration script engineered in Python to process and predict student performance matrices.
 
-* 📚 **[study-buddy](https://github.com/tanu25bce10493/study-buddy)** - A practical, Python-based learning assistant helping students revise effectively through flashcards, quizzes, and a simple task planner—offering both CLI and GUI modes.
+* 📚 **[study-buddy](https://github.com/Tanu-codeveda/study-buddy)** - A practical, Python-based learning assistant helping students revise effectively through flashcards, quizzes, and a simple task planner—offering both CLI and GUI modes.
 
-* 🌐 **[digital-literacy-project](https://github.com/tanu25bce10493/digital-literacy-project)** - A project focused on designing resources and frameworks to promote safe and effective digital literacy practices.
-
+* 🌐 **[digital-literacy-project](https://github.com/Tanu-codeveda/digital-literacy-project)** - A project focused on designing resources and frameworks to promote safe and effective digital literacy practices.
 ---
 
 ### 🤝 Let's Connect & Collaborate!
 
-After building **SyncReserve AI** during **SOCF 2.0**, I'm excited to collaborate on backend systems, AI-driven applications, cybersecurity projects, and future hackathons.
+After building **CivicPulse AI** and **SyncReserve AI** through hackathons, I'm excited to collaborate on backend systems, AI-driven applications, cybersecurity projects, and future hackathons.
 
 If you want a dedicated developer who enjoys solving complex engineering problems and building scalable systems, let's connect!
 
