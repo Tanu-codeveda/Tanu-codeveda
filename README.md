@@ -46,8 +46,6 @@ Recently, I participated in the **Summer of Code Fest (SOCF) 2.0 Grand Finale Ha
 
 ### 📂 Featured Academic & Fundamental Projects
 
-> 💡 **Note:** I am currently migrating my codebase from my college GitHub profile to this personal account. You can view my active repositories and complete commit history over at my [College GitHub Profile](https://github.com/tanu25bce10493).
-
 Here are some highlights of the utility tools and baseline implementations I've built there:
 
 * 🤖 **[chatbot_project](https://github.com/tanu25bce10493/chatbot_project)** - An AI-powered student assistant chatbot utilizing NLP and machine learning techniques (TF-IDF + Logistic Regression) integrated into a modern Flask-based web interface.
